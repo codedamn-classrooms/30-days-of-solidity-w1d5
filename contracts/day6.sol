@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.5.0 <0.9.0;
 
-contract day5 {
+contract day6 {
     function average(
         int256 a,
         int256 b,
